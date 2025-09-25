@@ -143,6 +143,8 @@ public class CollectionsExercise {
     }
 
     static void linkedHashSet() {
+    	System.out.println();
+    	System.out.println("Exercise LinkedHashSet");
         // TODO: Erstelle ein LinkedHashSet von Personen (object package)
         // TODO: Füge mehrere Personen ein, auch doppelte (verschiedene Objekte mit gleichen Werten)
         // TODO: Prüfe, ob das Set nicht leer ist
